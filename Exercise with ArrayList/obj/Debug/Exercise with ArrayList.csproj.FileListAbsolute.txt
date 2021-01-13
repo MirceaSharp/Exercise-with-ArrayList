@@ -1,0 +1,10 @@
+C:\Users\mirce\source\repos\Exercise with ArrayList\Exercise with ArrayList\obj\Debug\Exercise with ArrayList.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\Exercise with ArrayList\Exercise with ArrayList\obj\Debug\Exercise_with_ArrayList.ArrayListDemo.resources
+C:\Users\mirce\source\repos\Exercise with ArrayList\Exercise with ArrayList\obj\Debug\Exercise_with_ArrayList.Properties.Resources.resources
+C:\Users\mirce\source\repos\Exercise with ArrayList\Exercise with ArrayList\obj\Debug\Exercise with ArrayList.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\Exercise with ArrayList\Exercise with ArrayList\obj\Debug\Exercise with ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\Exercise with ArrayList\Exercise with ArrayList\bin\Debug\Exercise with ArrayList.exe.config
+C:\Users\mirce\source\repos\Exercise with ArrayList\Exercise with ArrayList\bin\Debug\Exercise with ArrayList.exe
+C:\Users\mirce\source\repos\Exercise with ArrayList\Exercise with ArrayList\bin\Debug\Exercise with ArrayList.pdb
+C:\Users\mirce\source\repos\Exercise with ArrayList\Exercise with ArrayList\obj\Debug\Exercise with ArrayList.exe
+C:\Users\mirce\source\repos\Exercise with ArrayList\Exercise with ArrayList\obj\Debug\Exercise with ArrayList.pdb
